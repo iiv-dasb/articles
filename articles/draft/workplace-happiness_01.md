@@ -87,14 +87,14 @@ If a colleague takes some time for you to answer a question or help you with an 
 Don't forget to point out individuals as well. When you are a team lead, you might be well aware of your team but your boss might not be? It does not hurt to mention here and there when a trainee or student did a good or even outstanding job on a project. Don't wait for the next annual evaluation and spread some praise and thanks regularly. It creates a positive athmosphere and boosts peoples' ego and motivation.
 
 <!-- campfire image --> 
-Again, if you are working the agile way (and even when not), use team building measures to boost morale and create perceived value. We're using a technique I know as "campfire" or "fishbowl" where the team comes together and one randomly chosen member turns off their camera (yeah, covid measures, we usually sat together in a room but that's simply the way we do it right now) and the whole team starts taking turns in talking positively about the lucky individual. Tell them what makes you glad/happy to have them in your team, which accomplishments recently stood out and other things that you might like about them
+Again, if you are working the agile way (and even if not), use team building measures to boost morale and create perceived value. We're using a technique I know as "campfire" or "fishbowl" where the team comes together and one randomly chosen member turns off their camera (yeah, covid measures, we usually sat together in a room but that's simply the way we do it right now) and the whole team starts taking turns in talking positively about the lucky individual. Tell them what makes you glad/happy to have them in your team, which accomplishments recently stood out and other things that you might like about them
 
 > Some bad employers do not do these things to keep people low on self-esteem so they have an easier time to negotiate underwhelming salaries... **Please, don't be a bad employer!**
 
 ### Empathy
 If a colleague has a bad day, it can mean a lot if your superior or even a colleague tells you to take things easy, report back a day later and maybe even take the afternoon off. Good and bad things happen that might make you want to take some time off, maybe shift a bit of your workload to another day and so on. Having a team and team-lead that accepts that and maybe even offers some help or guidance will go a long way.
 
-No one expects you to solve their issues but aknowledging them as real and finding ways to navigate them will strenghten your bond with them and create loyalty. If people know that you have an open door for them when they need you, they will also be more likely to go the extra mile for a few days when push comes to shove and deadlines are looming.
+No one expects you to solve their issues but acknowledging them as real and finding ways to navigate them will strenghten your bond with them and create loyalty. If people know that you have an open door for them when they need you, they will also be more likely to go the extra mile for a few days when push comes to shove and deadlines are looming.
 
 
 ## Wrapping Up
