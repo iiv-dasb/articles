@@ -94,7 +94,7 @@ Again, if you are working the agile way (and even when not), use team building m
 ### Empathy
 If a colleague has a bad day, it can mean a lot if your superior or even a colleague tells you to take things easy, report back a day later and maybe even take the afternoon off. Good and bad things happen that might make you want to take some time off, maybe shift a bit of your workload to another day and so on. Having a team and team-lead that accepts that and maybe even offers some help or guidance will go a long way.
 
-No one expects you to solve their issues but aknowledging them as real and finding ways to navigate them will strenghten your bond with them and create loyalty. If people know that you have an open door for them when they need you, they will also be more likely to go the extra mile for a few days when push comes to shove and deadlines are looming.
+No one expects you to solve their issues but acknowledging them as real and finding ways to navigate them will strenghten your bond with them and create loyalty. If people know that you have an open door for them when they need you, they will also be more likely to go the extra mile for a few days when push comes to shove and deadlines are looming.
 
 
 ## Wrapping Up
