@@ -19,7 +19,7 @@
 ## Why does it matter?
 There have been many surveys about the positive effects of happy employees while on the other hand numbers told us that way too many people are not happy in their current position and team/company. With the additional issues caused by Covid-19, the situation obviously did not improve. A recent study (links in the footer) shows that from the polled people in various industries about 20% were unhappy and 15% were actively trying to find a new job.
 
-If you think that 20% doesn't sound too bad, that's one in 5 people. That is WAY too much.
+If you think that 20% doesn't sound too bad, that's one in 5 people. That is too much.
 
 I could show you a ton of infographics about how happy employees are more productive and improve sales and so on but there are two things I would prefer you to keep in mind.
 
@@ -43,12 +43,12 @@ For the clarity of this article and because this statement alone is a topic on i
 
 **Workplace Happiness - A feeling of being trusted, valued and understood in a circle of peers.**
 
-Lets break this apart to get a better understanding of what we are looking for. You won't be able to please everyone but these points a a good way to start. 
+Lets break this apart to get a better understanding of what we are looking for. You won't be able to please everyone but these points are a good way to start. 
 
 ### What is Trust
 In the context of a regular workplace, trust is the ability to assign tasks to a person that can handle assignments according to their seniority and knowing that they will succeed. 
 
-While I would expect a senior developer to give me solutions or at least a rough analysis for problems they encountered, it is totally ok for a junior to ask for help, guidance or simply report back that they encountered an issue. Both junior and senior can accept and "own" a task according to their capabilities. I trust them to handle it as good as possible.
+While I would expect a senior developer to give me solutions or at least a rough analysis for problems they encountered, it is totally ok for a junior to ask for help, guidance or simply report back that they encountered an issue. Both junior and senior can accept and "own" a task according to their capabilities. I trust them to handle it as well as possible.
 
 ### What is Value
 Feeling valued means that I get positive feedback for tasks solved and decisions made. Many people think that no criticism is a compliment but the opposite is the case. 
@@ -73,21 +73,21 @@ Repeat this over a longer period and let your team members assign points to task
 
 > **Culture of Failure:** Fail Fast, Fail Often
 
-Some companies try to advocate a "culture of failure". While not everyone manages to bring the core issue of this idea accross, accepting and even telling people to fail IS a good idea in my oppinion. Let your - especially non-seniors - team members know that failure is acceptable as long as they are upright about it and communicate it early. I prefer a junior that tells me a task was to difficult for them or that they hit a wall over one that spends 2 weeks desperately trying to succeed and runs out of time. 
+Some companies try to advocate a "culture of failure". While not everyone manages to bring the core issue of this idea accross, accepting and even telling people to fail IS a good idea in my oppinion. Let your - especially non-senior - team members know that failure is acceptable as long as they are upright about it and communicate it early. I prefer a junior that tells me a task was to difficult for them or that they hit a wall over one that spends two weeks desperately trying to succeed and runs out of time. 
 
-Trust and confidence go hand in hand so try to build confidence in your people. That way it will be easier to trust into their abilities.
+Trust and confidence go hand in hand so try to build confidence in your people. That way it will be easier to trust their abilities.
 
 ### Value
 It's very easy to say thank you, it costs you nothing and yet, so many people fail to mention it on a regular basis.
 
-If a colleague takes some time for you to answer a question or help you with an issue, tell them thanks for their valuable time. If someone finishes an epic tasks that took the team a long time, tell them all that they did well. Maybe even do so in your next internal company mail. 
+If a colleague takes some time to answer a question for you or help you with an issue, tell them thanks for their valuable time. If someone finishes an epic tasks that took the team a long time, tell them all that they did well. Maybe even do so in your next internal company mail. 
 
 > "This quarter, we finished building the new B2B infrastructure for our main customer, **well in time and budged. Many thanks to the B2B Team for a job well done**. We even received praise from the customer CEO in our last review call."
 
-Don't forget to point out individuals as well. When you are a team lead, you might be well aware of your team but your boss might not be? It does not hurt to mention here and there when a trainee or student did a good or even outstanding job on a project. Don't wait for the next annual evaluation and spread some praise and thanks regularly. It creates a positive athmosphere and boosts peoples' ego and motivation.
+Don't forget to point out individuals as well. When you are a team lead, you might be well aware of your team but your boss might not be? It does not hurt to mention here and there when a trainee or student did a good or even outstanding job on a project. Don't wait for the next annual evaluation and spread some praise and thanks regularly. It creates a positive atmosphere and boosts peoples' ego and motivation.
 
 <!-- campfire image --> 
-Again, if you are working the agile way (and even when not), use team building measures to boost morale and create perceived value. We're using a technique I know as "campfire" or "fishbowl" where the team comes together and one randomly chosen member turns off their camera (yeah, covid measures, we usually sat together in a room but that's simply the way we do it right now) and the whole team starts taking turns in talking positively about the lucky individual. Tell them what makes you glad/happy to have them in your team, which accomplishments recently stood out and other things that you might like about them
+Again, if you are working the agile way (and even if not), use team building measures to boost morale and create perceived value. We're using a technique I know as "campfire" or "fishbowl" where the team comes together and one randomly chosen member turns off their camera (yeah, covid measures, we usually sat together in a room but that's simply the way we do it right now) and the whole team starts taking turns in talking positively about the lucky individual. Tell them what makes you glad/happy to have them in your team, which accomplishments recently stood out and other things that you might like about them.
 
 > Some bad employers do not do these things to keep people low on self-esteem so they have an easier time to negotiate underwhelming salaries... **Please, don't be a bad employer!**
 
@@ -105,17 +105,6 @@ If you take one thing with you from this article, then let it be the following.
 If you want to do more than that, maybe try to utilise agile methods - that might not directly increase immediate productivity - to create a positive climate and a work environment that is as uplifting as it can be. Make sure that everyone knows their own worth (in a good way) and is working towards a shared goal. Form strong teams of people meeting at eye-level despite their seniority and background. 
 
 Be inclusive, be positive and be human, for what it's worth. You might be amazed by the results if you keep this up for a while. We sure were.
-
----
-
-## Outlook
-Preparing notes and reviewing this article sparked a plethora of topics and ideas in my head that I want to touch on in following articles. Here's a short sneak peak of things to come. Tell me in the comments which topics interest you the most and what experiences you've had in your current/past jobs regarding these things.
-
-- Mantra of Joy - My very subjective definition of Happiness
-- Corporate Culture - Dress for the team you want to have
-- The one that got away - The hidden cost of employee migration
-- On the shoulders of Giants - The art of building up your team
-- Keep on shipping - Utilising Agile Methods to break down projects
 
 ---
 
